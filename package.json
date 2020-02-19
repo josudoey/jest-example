@@ -1,0 +1,23 @@
+{
+  "name": "jest-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-cov": "jest --forceExit --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josudoey/jest-example.git"
+  },
+  "author": "Joey Fang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josudoey/jest-example/issues"
+  },
+  "homepage": "https://github.com/josudoey/jest-example#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}

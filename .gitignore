@@ -1,0 +1,10 @@
+*~
+*.swp
+*.swo
+node_modules
+package-lock.json
+docs
+log/
+build
+.DS_Store
+coverage/
